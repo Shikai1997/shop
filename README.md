@@ -1,5 +1,4 @@
-## 六角學院課程  Vue作業
-# 旅途貓店商網
+## 六角學院課程  Vue作業(電商)
 # shop
 
 ## Project setup
